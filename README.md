@@ -120,7 +120,7 @@ If you find this project useful or have suggestions for improvement, feel free t
 
 Sai Sindhuja Rama.
 
-Github (https://github.com/sindhujarama26)
+[Github] (https://github.com/sindhujarama26)
 
-LinkedIn (https://www.linkedin.com/in/sai-sindhuja-rama-07b6a7370/)
+[LinkedIn] (https://www.linkedin.com/in/sai-sindhuja-rama-07b6a7370/)
 
