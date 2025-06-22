@@ -25,6 +25,12 @@ This project was developed as part of an Advanced Database Management Systems co
 
 ---
 
+A glimpse of the ERD Diagram
+
+![Hospital_Management](https://github.com/user-attachments/assets/10ae58c4-1e16-4f1c-8476-58e25d308c5b)
+
+---
+
 ## ✅ Key Features
 
 - Fully normalized schema with primary and foreign key constraints.
@@ -114,7 +120,7 @@ If you find this project useful or have suggestions for improvement, feel free t
 
 Sai Sindhuja Rama.
 
-Github(https://github.com/sindhujarama26)
+Github (https://github.com/sindhujarama26)
 
-LinkedIn(https://www.linkedin.com/in/sai-sindhuja-rama-07b6a7370/)
+LinkedIn (https://www.linkedin.com/in/sai-sindhuja-rama-07b6a7370/)
 
